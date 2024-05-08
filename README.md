@@ -2,11 +2,11 @@
 
 Evaluating Marketing Campaign Effectiveness with AB Testing
 
-# **Description**:
+## **Description**
 
 This project presents a comprehensive analysis of the effectiveness of marketing campaigns on user conversion using AB testing methodologies. The analysis includes statistical testing, exploratory data analysis (EDA), bootstrap resampling, and actionable business recommendations. By leveraging these analytical techniques, the project aims to provide valuable insights into optimizing marketing strategies for enhanced user conversion rates.
 
-# **Project Overview**
+## **Project Overview**
 **1. Introduction**
 
 1.1 Problem Statement
